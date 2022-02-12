@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielzgt&color=yellow" alt="Profile views" /> </p>
 
 
-- 😊 Estou a procura de ingressar na Tecnoloiga e Programção
+- 😊 Estou a procura de ingressar em Tecnologia e Programção
 - 🖥️ Estudando Dart, Flutter 
 - 🚀 Futuramente pretendo desenvolver: Typescript, Node, Reach Native, Scala e Go !
 - 🤓 Adoro Cinema Series e Animes 
