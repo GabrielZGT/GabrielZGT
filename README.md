@@ -3,7 +3,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Gabriel Filipe, Seja bem vindo a minha home page </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielzgt&color=yellow" alt="Profile views" /> </p>
 
-
+- Visite meu primeiro site https://gabrielfilipe.tech/
 - 😊 Estou a procura de ingressar em Tecnologia e Programção
 - 🖥️ Estudando Dart, Flutter 
 - 🚀 Futuramente pretendo desenvolver: Typescript, Node, Reach Native, Scala e Go !
