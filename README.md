@@ -5,9 +5,9 @@
 
 - Visite meu primeiro site https://gabrielfilipe.tech/
 - 😊 Estou a procura de ingressar em Tecnologia e Programção
-- 🖥️ Estudando Dart, Flutter 
-- 🚀 Futuramente pretendo desenvolver: Typescript, Node, Reach Native, Scala e Go !
-- 🤓 Adoro Cinema Series e Animes 
+- 🖥️ Estudando Dart, Flutter, Desenvolvimento de software, web e app 
+- 🚀 Futuro Canadense!
+- 🤓 Cinema Series e Animes 
 - 🎮 Gamer de jogos de estrategia nas horas vagas
  
 <div align="center">
