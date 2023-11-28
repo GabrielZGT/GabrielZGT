@@ -3,11 +3,11 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Gabriel Filipe, Seja bem vindo a minha home page </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielzgt&color=yellow" alt="Profile views" /> </p>
 
-- Visite meu primeiro site https://gabrielfilipe.tech/
+- Visite meu linkedin: https://www.linkedin.com/in/gabriel-filipe-silveira/
 - 😊 Estou a procura de ingressar em Tecnologia e Programção
-- 🖥️ Estudando Dart, Flutter, Desenvolvimento de software, web e app 
+- 🖥️ Estudando Analise e Desenvolvimento de Sistemas by UNA. 
 - 🚀 Futuro Canadense!
-- 🤓 Cinema Series e Animes 
+- 🤓 Cinema, Series, Nerd 
 - 🎮 Gamer de jogos de estrategia nas horas vagas
  
 <div align="center">
