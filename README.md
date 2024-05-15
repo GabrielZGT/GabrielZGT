@@ -6,9 +6,8 @@
 - Visite meu linkedin: https://www.linkedin.com/in/gabriel-filipe-silveira/
 - 😊 Estou a procura de ingressar em Tecnologia e Programção
 - 🖥️ Estudando Analise e Desenvolvimento de Sistemas by UNA. 
-- 🚀 Futuro Canadense!
 - 🤓 Cinema, Series, Nerd 
-- 🎮 Gamer de jogos de estrategia nas horas vagas
+- 🎮 
  
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -26,7 +25,7 @@
   <div> 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
   <a href="https://instagram.com/gabrielfilipez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+  <a href = "mailto:gabrielfilsilveiratech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-filipe-a3909721a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
     
   
