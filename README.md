@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielzgt&color=yellow" alt="Profile views" /> </p>
 
 - Visite meu linkedin: https://www.linkedin.com/in/gabriel-filipe-silveira/
-- 😊 Estou a procura de ingressar em Tecnologia e Programção
-- 🖥️ Estudando Analise e Desenvolvimento de Sistemas by UNA. 
-- 🤓 Cinema, Series, Nerd 
-- 🎮 
+- 😊 Sou tecnico de sistemas de informacao
+- 🖥️ Estudando Analise e Desenvolvimento de Sistemas by UNA.  
  
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/GabrielZGT">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielZGT&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzgt&layout=compact&langs_count=7&theme=onedark"/>
 </div>
